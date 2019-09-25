@@ -1,0 +1,7 @@
+name: 'Inline Field Group'
+description: 'Provides an "Inline" group format, which renders child elements inline.'
+type: module
+core: 8.x
+package: Fields
+dependencies:
+  - field_group:field_group
